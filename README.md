@@ -4,4 +4,4 @@ I received a Ph.D. in [Quantitative Psychology](https://quantpsych.unc.edu/) fro
 
 I'm primarily interested in developing statistical and computational methods to detect measurement bias in the social and behavioral sciences. Check out my [R package](https://https://github.com/wbelzak/regDIF) using regularization and an expectation-maximization algorithm to detect measurement bias across multiple background variables (e.g., gender, race, age, etc.).
 
-Here are links to my [CV](https://github.com/wbelzak/wbelzak/blob/master/static/BelzakCV_Aug2021.pdf) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=Lt-RGPwAAAAJ) page.
+Here are links to my [CV](https://github.com/wbelzak/wbelzak/blob/master/static/BelzakCV_Aug2021.pdf) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=Lt-RGPwAAAAJ) page. Feel free to reach out anytime at <wbelzak@gmail.com>.
