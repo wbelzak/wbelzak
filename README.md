@@ -4,4 +4,4 @@ I received a Ph.D. and M.A. in [Quantitative Psychology](https://quantpsych.unc.
 
 I'm broadly interested in psychometrics and human assessment. More specifcially, I've worked on measurement bias, test and rater reliability, personality and motivation, and test security.
 
-My research can be found here: [Google Scholar](https://scholar.google.com/citations?hl=en&user=Lt-RGPwAAAAJ). Feel free to reach out anytime at <wbelzak@gmail.com>.
+My research can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Lt-RGPwAAAAJ). Feel free to reach out anytime at <wbelzak@gmail.com>.
