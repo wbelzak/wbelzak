@@ -1,7 +1,7 @@
-I currently work on validating the [Duolingo English Test](https://englishtest.duolingo.com/research) using psychometric and statistical methods.
+I'm currently a senior assessment scientist at Duolingo working on the [Duolingo English Test](https://englishtest.duolingo.com/research).
 
-I received a Ph.D. in [Quantitative Psychology](https://quantpsych.unc.edu/) from the University of North Carolina at Chapel Hill in 2021, as well as a Master's in Experimental Psychology from the College of William and Mary (2017) and a Bachelor's in Economics from North Carolina State University (2013).
+I received a Ph.D. and M.A. in [Quantitative Psychology](https://quantpsych.unc.edu/) from UNC - Chapel Hill in 2021 and 2019, respectively, advised by [Dan Bauer](https://dbauer.web.unc.edu/). Before that, I received an M.A. in Experimental Psychology from the College of William & Mary (2017), advised by [Todd Thrash](https://www.wm.edu/as/psych-sciences/facultydirectory/thrash_t.php), and a B.A. in Economics from North Carolina State University (2013).
 
-I'm primarily interested in developing statistical and computational methods to detect measurement bias in the social and behavioral sciences. Check out my [R package](https://github.com/wbelzak/regDIF) using a regularized expectation-maximization algorithm to detect measurement bias across multiple background variables (e.g., gender, race, age, etc.).
+I'm broadly interested in psychometrics and human assessment. More specifcially, I've worked on measurement bias, test and rater reliability, personality and motivation, and test security.
 
-Here are links to my [CV](https://github.com/wbelzak/wbelzak/blob/master/static/BelzakCV_Aug2021.pdf) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=Lt-RGPwAAAAJ) page. Feel free to reach out anytime at <wbelzak@gmail.com>.
+My research can be found here: [Google Scholar](https://scholar.google.com/citations?hl=en&user=Lt-RGPwAAAAJ). Feel free to reach out anytime at <wbelzak@gmail.com>.
