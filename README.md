@@ -1,6 +1,6 @@
 I am currently a Senior Assessment Scientist at Duolingo working on the [Duolingo English Test](https://englishtest.duolingo.com/research) (Supervisor: [JR Lockwood](https://scholar.google.com/citations?user=Fp7I7aEAAAAJ&hl=en)).
 
-I have a Ph.D. and M.A. in [Quantitative Psychology from UNC - Chapel Hill](https://quantpsych.unc.edu/) (2021, 2019; Advisor: [Dan Bauer](https://dbauer.web.unc.edu/)), an M.A. in [Psychology from the College of William & Mary](https://www.wm.edu/as/psych-sciences/index.php) (2017; Advisor: [Todd Thrash](https://www.wm.edu/as/psych-sciences/facultydirectory/thrash_t.php)), and a B.A. in Economics from N.C. State University (2013).
+I have a Ph.D. and M.A. in [Quantitative Psychology from UNC - Chapel Hill](https://quantpsych.unc.edu/) (2021, 2019; Advisor: [Dan Bauer](https://dbauer.web.unc.edu/)), an M.A. in [Psychology from William & Mary](https://www.wm.edu/as/psych-sciences/index.php) (2017; Advisor: [Todd Thrash](https://www.wm.edu/as/psych-sciences/facultydirectory/thrash_t.php)), and a B.A. in Economics from N.C. State (2013).
 
 I am broadly interested in psychometrics and human assessment. While most of my research has focused on measurement bias and personality/motivation, more recently I've been working on test security, test and rater reliability, and individual differences in decision-making.
 
