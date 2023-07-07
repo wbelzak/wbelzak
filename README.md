@@ -1,4 +1,4 @@
-I am currently a senior assessment scientist at Duolingo working on the [Duolingo English Test](https://englishtest.duolingo.com/research).
+I am currently a Senior Assessment Scientist at Duolingo working on the [Duolingo English Test](https://englishtest.duolingo.com/research).
 
 I have a Ph.D. and M.A. in [Quantitative Psychology](https://quantpsych.unc.edu/) from UNC - Chapel Hill (2021, 2019; Advisor: [Dan Bauer](https://dbauer.web.unc.edu/)), an M.A. in Experimental Psychology from the College of William & Mary (2017; Advisor: [Todd Thrash](https://www.wm.edu/as/psych-sciences/facultydirectory/thrash_t.php)), and a B.A. in Economics from N.C. State University (2013).
 
