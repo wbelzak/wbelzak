@@ -1,4 +1,4 @@
-I am currently a Sr. Assessment Scientist at Duolingo.
+I am currently a Lead Measurement Scientist at Duolingo.
 
 I have a PhD and MA in [Quantitative Psychology from UNC - Chapel Hill](https://quantpsych.unc.edu/) (2021, 2019; Advisor: [Dan Bauer](https://dbauer.web.unc.edu/)), an MA in [Psychology from William & Mary](https://www.wm.edu/as/psych-sciences/index.php) (2017; Advisor: [Todd Thrash](https://www.wm.edu/as/psych-sciences/facultydirectory/thrash_t.php)), and a BA in Economics from N.C. State (2013).
 
